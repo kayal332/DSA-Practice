@@ -1,5 +1,4 @@
 import java.util.*;
-imm
 class Main {
    public static void main(String[]args){
        LinkedHashSet hs=new LinkedHashSet();
@@ -20,3 +19,4 @@ class Main {
        System.out.print(hs);
  }
 }
+
